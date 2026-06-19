@@ -136,13 +136,15 @@ graph TD
 
 <br/>
 
-<h3 align="center">✦ &nbsp; T H E   S N A K E &nbsp; ✦</h3>
+<h3 align="center">✦ &nbsp; P A C - M A N &nbsp; ✦</h3>
+<p align="center"><sub>commits are dots · your best days become power pellets</sub></p>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lowii0/lowii0/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/lowii0/lowii0/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lowii0/lowii0/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lowii0/lowii0/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lowii0/lowii0/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
 </div>
