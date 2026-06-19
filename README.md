@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=170&color=0:0d0d0d,100:2b2b2b&text=lowii0&fontColor=ffffff&fontSize=66&fontAlignY=58&animation=fadeIn" width="100%" />
+<img src="./assets/banner.svg" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=900&duration=2800&color=FFFFFF&center=true&vCenter=true&width=560&height=44&lines=full-stack+developer;building+in+black+%26+white;always+leveling+up" />
 
@@ -8,37 +8,7 @@
 
 <br/>
 
-```
-> ~/lowii0 $ whoami
-
-  developer · designer · perpetual learner
-  i build things in the dark and ship them in the light.
-  monochrome by choice — black, white, nothing between.
-
-> status: online    coffee: critical    bugs: pending
-```
-
-<br/>
-
-<h3 align="center">✦ &nbsp; S K I L L   T R E E &nbsp; ✦</h3>
-<p align="center"><sub>nodes unlocked · ★ = mastery</sub></p>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#181818','primaryTextColor':'#f5f5f5','primaryBorderColor':'#5a5a5a','lineColor':'#7d7d7d','clusterBkg':'#0d0d0d','fontFamily':'monospace'}}}%%
-graph TD
-    A([" lowii0 · Lv.27 "]) --> FE[" FRONTEND "]
-    A --> BE[" BACKEND "]
-    A --> SYS[" SYSTEMS "]
-    FE --> FE1[" React ★★★★☆ "]
-    FE --> FE2[" Next.js ★★★★☆ "]
-    FE --> FE3[" Tailwind ★★★★★ "]
-    BE --> BE1[" Python ★★★★★ "]
-    BE --> BE2[" Node.js ★★★★☆ "]
-    BE --> BE3[" Rust ★★★☆☆ "]
-    SYS --> S1[" Docker ★★★★☆ "]
-    SYS --> S2[" Linux ★★★★☆ "]
-    SYS --> S3[" GraphQL ★★★☆☆ "]
-```
+<p align="center"><img src="./assets/about.svg" width="94%" /></p>
 
 <br/>
 
@@ -124,15 +94,7 @@ graph TD
 
 <br/>
 
-<h3 align="center">✦ &nbsp; A C T I V E   Q U E S T S &nbsp; ✦</h3>
-
-```
-[ MAIN  ]  leveling up systems design               in progress
-[ SIDE  ]  a project nobody asked for                in progress
-[ DAILY ]  close one issue, open two                 recurring
-[ EPIC  ]  contribute to open source                 available
-[ LORE  ]  learn something that scares me            accepted
-```
+<p align="center"><img src="./assets/quests.svg" width="94%" /></p>
 
 <br/>
 
