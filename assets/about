@@ -1,0 +1,24 @@
+<svg viewBox="0 0 820 235" xmlns="http://www.w3.org/2000/svg" width="100%" role="img">
+<defs>
+<linearGradient id="bga" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#090909"/><stop offset="1" stop-color="#171717"/></linearGradient>
+<linearGradient id="gla" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.14"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.035"/></linearGradient>
+<linearGradient id="eda" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.08"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.55"/></linearGradient>
+<filter id="bla" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+<filter id="sha" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#000000" flood-opacity="0.55"/></filter>
+</defs>
+<rect width="820" height="235" fill="url(#bga)"/>
+<g filter="url(#bla)"><circle cx="150" cy="60" r="85" fill="#ffffff" opacity="0.16"><animate attributeName="cx" values="150;520;150" dur="16s" repeatCount="indefinite"/></circle><circle cx="680" cy="190" r="90" fill="#ffffff" opacity="0.14"></circle></g>
+<g filter="url(#sha)">
+<rect x="16" y="16" width="788" height="203" rx="22" fill="url(#gla)" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.5"/>
+<rect x="30" y="17" width="760" height="2" rx="1" fill="url(#eda)"/>
+</g>
+<g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<text x="54" y="58" fill="#9a9a9a" font-size="13" letter-spacing="4">// ABOUT</text>
+<text fill="#efefef" font-size="18">
+<tspan x="54" y="100">developer · designer · perpetual learner.</tspan>
+<tspan x="54" y="132">i build things in the dark and ship them in the light.</tspan>
+<tspan x="54" y="164"></tspan>
+</text>
+<text x="54" y="206" fill="#7d7d7d" font-size="13" font-family="monospace">status: online    bugs: pending</text>
+</g>
+</svg>
